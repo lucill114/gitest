@@ -1,0 +1,2 @@
+# gitest
+self test simple
